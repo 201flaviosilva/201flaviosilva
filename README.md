@@ -23,7 +23,7 @@
 
 - [Mangito](./More/Mangito.md);
 - [Personal Projects](./More/Personal.md);
-- [Social Networks](./More/Stats.md);
+- [Stats](./More/Stats.md);
 
 <!-- --- -->
 <!-- [More Ideas](https://github.com/abhisheknaiidu/awesome-github-profile-readme); -->
