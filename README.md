@@ -9,9 +9,6 @@
 
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=201flaviosilva&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
-
 #### Social Networks
 
 [![Behance](./Assets/icons/Behance.svg "Behance")](https://www.behance.net/meiagaspe)
@@ -22,9 +19,7 @@
 <!-- [<img src="./Assets/icons/Pinterest.svg" alt="Pinterest" title="Pinterest" style="width:18px;"/>](https://www.pinterest.pt/MeiaGaspea/) -->
 [![Youtube](./Assets/icons/Youtube.svg "Youtube")](https://www.youtube.com/channel/UCUqmAAgOoVVMpxykzPNCSUw)
 
-
-
-### More
+#### More
 
 - [Mangito](./More/Mangito.md);
 - [Personal Projects](./More/Personal.md);
@@ -32,3 +27,4 @@
 
 <!-- --- -->
 <!-- [More Ideas](https://github.com/abhisheknaiidu/awesome-github-profile-readme); -->
+<!-- --- -->
