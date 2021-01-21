@@ -23,14 +23,12 @@
 [![Youtube](./Assets/icons/Youtube.svg "Youtube")](https://www.youtube.com/channel/UCUqmAAgOoVVMpxykzPNCSUw)
 
 
-<details>
-  <summary>More</summary>
+
+### More
 
 - [Mangito](./More/Mangito.md);
 - [Personal Projects](./More/Personal.md);
 - [Social Networks](./More/Stats.md);
-
-</details>
 
 <!-- --- -->
 <!-- [More Ideas](https://github.com/abhisheknaiidu/awesome-github-profile-readme); -->
