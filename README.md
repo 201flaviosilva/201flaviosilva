@@ -22,7 +22,7 @@
 #### More
 
 - [Mangito](./More/Mangito.md);
-- [Personal Projects](./More/Personal.md);
+- [Personal Projects](./More/Projects.md);
 - [Stats](./More/Stats.md);
 
 <!-- --- -->
