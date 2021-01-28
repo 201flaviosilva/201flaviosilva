@@ -17,12 +17,14 @@
 [![Instagram](./Assets/icons/Instagram.svg "Instagram")](https://www.instagram.com/meiagaspea/)
 [![Linkedin](./Assets/icons/Linkedin.svg "Linkedin")](https://www.linkedin.com/in/fl%C3%A1vio-silva-2b069b146/)
 [![Youtube](./Assets/icons/Youtube.svg "Youtube")](https://www.youtube.com/channel/UCUqmAAgOoVVMpxykzPNCSUw)
-<!-- [<img src="./Assets/icons/Pinterest.svg" alt="Pinterest" title="Pinterest" style="width:18px;"/>](https://www.pinterest.pt/MeiaGaspea/) -->
+
+
 
 #### More
 
 - [Mangito](./More/Mangito.md);
 - [Personal Projects](./More/Projects.md);
+- [Social Networks](./More/SocialNetworks.md);
 - [Stats](./More/Stats.md);
 
 <!-- --- -->
