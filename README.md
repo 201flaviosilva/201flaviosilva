@@ -11,12 +11,7 @@ export default me;
 
 ```
 
-<!-- #### More
-
-- [Mangito](./More/Mangito.md);
-- [Personal Projects](./More/Projects.md);
-- [Social Networks](./More/SocialNetworks.md);
-- [Stats](./More/Stats.md); -->
+-> [More](./More/Readme.md) <-
 
 <!-- --- -->
 <!-- [More Ideas](https://github.com/abhisheknaiidu/awesome-github-profile-readme); -->
