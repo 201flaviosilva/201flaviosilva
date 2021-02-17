@@ -12,4 +12,11 @@ I hope one day to start a game company 🥲
 - [Salganhada (POC)](https://mangito.github.io/Salganhada/);
 - [Elevador (POC)](https://mangito.github.io/Elevador/);
 
+
+
+## Social Networks
+
+- [GitHub](https://github.com/Mangito);
+- [GitLab](https://gitlab.com/mangito);
+
 [Back](./Readme.md);
