@@ -15,9 +15,9 @@ Have a look inside my personal projects, which I will develop over time:
  - [201flaviosilva V2](https://201flaviosilvav2.netlify.app);
   
 #### Discontinued:
- - [CSSFreeStyle](https://201flaviosilva.github.io/CSSFreeStyle/);
  - [Vanilla JavaScript](https://201flaviosilva.github.io/VanillaJavaScript);
  - [Minerva](https://github.com/201flaviosilva/Minerva);
+ - [CSSFreeStyle](https://201flaviosilva.github.io/CSSFreeStyle/);
  - [Carteira Online PHP](https://github.com/201flaviosilva/CarteiraOnline);
  - [Invasores Do Espaço](https://sites.google.com/view/invasores-do-espao-vb);
 
@@ -33,7 +33,6 @@ So I even created a group on github where I try to take this area a little more 
 These websites are where I create some game prototypes and test ideas for possible future games. <br />
 
 - [Joguinhos Web](https://joguinhosweb.netlify.app);
-- [GDevelop Jogos](https://gdevelopjogos.netlify.app);
 
 ---
 
