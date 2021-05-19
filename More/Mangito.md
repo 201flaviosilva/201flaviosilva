@@ -8,6 +8,7 @@ Check the website [mangito.github.io](https://mangito.github.io/)
 
 ## Games
 - [Fire Cosmos](https://mangito.github.io/FireCosmos/);
+- [Ninica](https://gitlab.com/groups/mangito/Ninica/-/boards);
 
 ### Alphas
 Games just to test some concepts and for prototypes
@@ -16,13 +17,13 @@ Games just to test some concepts and for prototypes
 - [Tamagotchi](https://mangito.github.io/Tamagotchi/);
 - [Inesperado](https://mangito.github.io/Inesperado/);
 - [Salganhada](https://mangito.github.io/Salganhada/);
-- [Elevador](https://mangito.github.io/Elevador/);
 
 
 ## Social Networks
 
 - [GitHub](https://github.com/Mangito);
 - [GitLab](https://gitlab.com/mangito);
+- [Itch.io](https://mangito.itch.io/);
 
 
 [Back](./Readme.md);

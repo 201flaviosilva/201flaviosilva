@@ -4,35 +4,39 @@ Have a look inside my personal projects, which I will develop over time:
 
 ## A Programmer
 
-#### Development:
- - [Rupestre](https://201flaviosilva.github.io/Rupestre);
- - [Sites Porreiros](https://201flaviosilva.github.io/SitesPorreiros);
- - [React School](https://react-school-beryl.vercel.app);
+<!-- #### Development: -->
   
 #### 201flaviosilva:
- - [201flaviosilva](https://201flaviosilva.github.io);
- - [201flaviosilva V1](https://201flaviosilvav1.netlify.app);
- - [201flaviosilva V2](https://201flaviosilvav2.netlify.app);
+ - [201flaviosilva (My CV)](https://201flaviosilva.github.io);
+   - [V1 (Native HTML, SCSS and JavaScript)](https://201flaviosilvav1.netlify.app);
+   - [V2 (Phaser game)](https://201flaviosilvav2.netlify.app);
+
+#### Prototypes:
+ - [Sites Porreiros (Learning HTML, CSS/SASS, JavaScript)](https://201flaviosilva.github.io/SitesPorreiros);
+ - [React School (Learning React)](https://react-school2.netlify.app/jogos);
   
-#### Discontinued:
- - [Vanilla JavaScript](https://201flaviosilva.github.io/VanillaJavaScript);
- - [Minerva](https://github.com/201flaviosilva/Minerva);
- - [CSSFreeStyle](https://201flaviosilva.github.io/CSSFreeStyle/);
- - [Carteira Online PHP](https://github.com/201flaviosilva/CarteiraOnline);
- - [Invasores Do Espaço](https://sites.google.com/view/invasores-do-espao-vb);
+#### Discontinued/On Hold:
+ - [Rupestre (A simple draw app)](https://201flaviosilva.github.io/Rupestre);
+ - [Vanilla JavaScript (Simple projects and utils)](https://201flaviosilva.github.io/VanillaJavaScript);
+ - [Minerva (CLI Node App)](https://github.com/201flaviosilva/Minerva);
+ - [CSSFreeStyle (CSS Framework)](https://201flaviosilva.github.io/CSSFreeStyle/);
+ - [Carteira Online (PHP Money Manager)](https://github.com/201flaviosilva/CarteiraOnline);
+ - [Invasores Do Espaço (School Game)](https://sites.google.com/view/invasores-do-espao-vb);
 
 ---
 
-##  A Game Dev
+##  A Game Dev and 2D/3D stuffs
 I like to play video games, but for that I have to program them. <br />
 So I even created a group on github where I try to take this area a little more professionally:
 
 - [Mangito](https://mangito.github.io);
 
 #### Prototypes
-These websites are where I create some game prototypes and test ideas for possible future games. <br />
+These websites are where I create some game prototypes, learn and test ideas for possible future games. <br />
 
-- [Joguinhos Web](https://joguinhosweb.netlify.app);
+- [Joguinhos Web (Vanilla.js / Canvas / Phaser)](https://joguinhosweb.netlify.app);
+- [Three Fixolas (Three.js)](https://three-fixolas.netlify.app/);
+- [Enable3d Fixolas (Enable3d.js)](https://enable3d-fixolas.netlify.app/);
 
 ---
 
