@@ -13,7 +13,7 @@ Have a look inside my personal projects, which I will develop over time:
 
 #### Prototypes:
  - [Sites Porreiros (Learning HTML, CSS/SASS, JavaScript)](https://201flaviosilva.github.io/SitesPorreiros);
- - [React School (Learning React)](https://react-school2.netlify.app/jogos);
+ - [React School (Learning React)](react-schoole.netlify.app);
   
 #### Discontinued/On Hold:
  - [Rupestre (A simple draw app)](https://201flaviosilva.github.io/Rupestre);
