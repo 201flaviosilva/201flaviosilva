@@ -7,6 +7,7 @@
 - [Itch](https://meiagaspea.itch.io/);
 - [Linkedin](https://www.linkedin.com/in/fl%C3%A1vio-silva-2b069b146/);
 - [Pinterest](https://www.pinterest.pt/MeiaGaspea/);
+- [Sketchfab](https://sketchfab.com/MeiaGaspea);
 - [Youtube](https://www.youtube.com/channel/UCUqmAAgOoVVMpxykzPNCSUw);
 
 ## Others
