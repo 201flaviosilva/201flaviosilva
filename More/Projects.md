@@ -13,9 +13,9 @@ Have a look inside my personal projects, which I will develop over time:
 
 #### Prototypes:
  - [Sites Porreiros (Learning HTML, CSS/SASS, JavaScript)](https://201flaviosilva.github.io/SitesPorreiros);
- - [React School (Learning React)](react-schoole.netlify.app);
+ - [React School (Learning React)](https://react-schoole.netlify.app);
   
-#### Discontinued/On Hold:
+#### Archived/Discontinued/On Hold:
  - [Rupestre (A simple draw app)](https://201flaviosilva.github.io/Rupestre);
  - [Vanilla JavaScript (Simple projects and utils)](https://201flaviosilva.github.io/VanillaJavaScript);
  - [Minerva (CLI Node App)](https://github.com/201flaviosilva/Minerva);
@@ -35,8 +35,10 @@ So I even created a group on github where I try to take this area a little more 
 These websites are where I create some game prototypes, learn and test ideas for possible future games. <br />
 
 - [Joguinhos Web (Vanilla.js / Canvas / Phaser)](https://joguinhosweb.netlify.app);
-- [Three Fixolas (Three.js)](https://three-fixolas.netlify.app/);
 - [Enable3d Fixolas (Enable3d.js)](https://enable3d-fixolas.netlify.app/);
+- [GDevelop Fixolas (GDevelop)](https://gdevelop-fixolas.netlify.app/);
+- [Three Fixolas (Three.js)](https://threejs-fixolas.netlify.app/);
+- [Unity Fixolas (Unity Engine)](https://unity-fixolas.netlify.app/);
 
 ---
 
@@ -44,7 +46,7 @@ These websites are where I create some game prototypes, learn and test ideas for
 
 - [Adobe Portfolio](https://flaviosilva00.myportfolio.com);
 
-#### Discontinued:
+#### Discontinued/Archived:
 - [MeiaGaspea Site (Google Site)](https://sites.google.com/view/meiagaspea);
 - [PlanetaGames (Wix)](https://planetaweb29.wixsite.com/planetagames);
 - [Planeta Hamsterland (Wix)](https://planetaweb29.wixsite.com/planetahamsterland);

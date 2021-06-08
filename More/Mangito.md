@@ -10,7 +10,7 @@ Check the website [mangito.github.io](https://mangito.github.io/)
 - [Fire Cosmos](https://mangito.github.io/FireCosmos/);
 - [Ninica](https://gitlab.com/groups/mangito/Ninica/-/boards);
 
-### Alphas
+### Alphas/Archived
 Games just to test some concepts and for prototypes
 
 - [Tic Tac Toe](https://mangito.github.io/TicTacToe/);
