@@ -3,23 +3,21 @@
 Have a look inside my personal projects, which I will develop over time:
 
 ## A Programmer
-
-<!-- #### Development: -->
   
 #### 201flaviosilva:
  - [201flaviosilva (My CV)](https://201flaviosilva.github.io);
-   - [V1 (Native HTML, SCSS and JavaScript)](https://201flaviosilvav1.netlify.app);
+   - [V1 (Native HTML, SCSS and JavaScript)](https://201flaviosilva.bitbucket.io);
    - [V2 (Phaser game)](https://201flaviosilvav2.netlify.app);
 
 #### Prototypes:
- - [Sites Porreiros (Learning HTML, CSS/SASS, JavaScript)](https://201flaviosilva.github.io/SitesPorreiros);
+ - [Sites Porreiros (Learning HTML, CSS/SASS, JavaScript, Awesome FrameWorks)](https://201flaviosilva.github.io/SitesPorreiros);
  - [React School (Learning React)](https://react-schoole.netlify.app);
   
 #### Archived/Discontinued/On Hold:
  - [Rupestre (A simple draw app)](https://201flaviosilva.github.io/Rupestre);
  - [Vanilla JavaScript (Simple projects and utils)](https://201flaviosilva.github.io/VanillaJavaScript);
  - [Minerva (CLI Node App)](https://github.com/201flaviosilva/Minerva);
- - [CSSFreeStyle (CSS Framework)](https://201flaviosilva.github.io/CSSFreeStyle/);
+ - [CSSFreeStyle (CSS Framework)](https://201flaviosilva.github.io/CSSFreeStyle);
  - [Carteira Online (PHP Money Manager)](https://github.com/201flaviosilva/CarteiraOnline);
  - [Invasores Do Espaço (School Game)](https://sites.google.com/view/invasores-do-espao-vb);
 
@@ -35,10 +33,11 @@ So I even created a group on github where I try to take this area a little more 
 These websites are where I create some game prototypes, learn and test ideas for possible future games. <br />
 
 - [Joguinhos Web (Vanilla.js / Canvas / Phaser)](https://joguinhosweb.netlify.app);
-- [Enable3d Fixolas (Enable3d.js)](https://enable3d-fixolas.netlify.app/);
-- [GDevelop Fixolas (GDevelop)](https://gdevelop-fixolas.netlify.app/);
-- [Three Fixolas (Three.js)](https://threejs-fixolas.netlify.app/);
-- [Unity Fixolas (Unity Engine)](https://unity-fixolas.netlify.app/);
+- [Phaser Fixolas (Phaser.js)](https://phaser-fixolas.netlify.app);
+- [Enable3d Fixolas (Enable3d.js)](https://enable3d-fixolas.netlify.app);
+- [GDevelop Fixolas (GDevelop)](https://gdevelop-fixolas.netlify.app);
+- [Three Fixolas (Three.js)](https://threejs-fixolas.netlify.app);
+- [Unity Fixolas (Unity Engine)](https://unity-fixolas.netlify.app);
 
 ---
 
