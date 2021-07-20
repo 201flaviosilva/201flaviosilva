@@ -8,9 +8,9 @@ Check the website [mangito.github.io](https://mangito.github.io/)
 
 ## Games
 - [Fire Cosmos](https://mangito.github.io/FireCosmos/);
-- [Ninica](https://gitlab.com/groups/mangito/Ninica/-/boards);
+<!-- - [Ninica](https://gitlab.com/groups/mangito/Ninica/-/boards); -->
 
-### Alphas/Archived
+### PoC (Proof of Concept)
 Games just to test some concepts and for prototypes
 
 - [Tic Tac Toe](https://mangito.github.io/TicTacToe/);
