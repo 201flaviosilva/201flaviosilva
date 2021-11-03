@@ -3,7 +3,7 @@
 ```js
 
 const me = {
-  pt: "Sou um programador de front-end e desenvolvedor de jogos 👾, e tento fazer animações and pixel e 🥲",
+  pt: "Sou um programador de front-end e desenvolvedor de jogos 👾, e tento fazer animações e pixel 🥲",
   en: "I'm a front-end developer and games developer 👾, and try to make animations and pixel art 🥲",
 };
 

@@ -6,8 +6,8 @@ Have a look inside my personal projects, which I will develop over time:
   
 #### 201flaviosilva:
  - [201flaviosilva (My CV)](https://201flaviosilva.github.io);
-   - [V1 (Native HTML, SCSS and JavaScript)](https://201flaviosilva.bitbucket.io);
-   - [V2 (Phaser game)](https://201flaviosilvav2.netlify.app);
+   - [V1 (Native HTML, SCSS and JavaScript)](https://201flaviosilva.bitbucket.io/src/201flaviosilva/V1/index.html);
+   - [V2 (Phaser game)](https://201flaviosilva.bitbucket.io/src/201flaviosilva/V2/index.html);
   
 #### Archived/Discontinued/On Hold:
  - [Rupestre (A simple draw app)](https://201flaviosilva.github.io/Rupestre);
@@ -30,7 +30,7 @@ So I even created a group on github where I try to take this area a little more 
 ## Prototypes
 These websites are where I create some prototypes or lear some technology, learn and test ideas for possible future games. <br />
 
-
+- [Impacto (A basic physics library)](https://github.com/201flaviosilva/Impacto);
 - [Sites Porreiros (Learning HTML, CSS/SASS, JavaScript, Awesome FrameWorks)](https://201flaviosilva.github.io/SitesPorreiros);
 - [React School (Learning React)](https://react-schoole.netlify.app);
 - [Joguinhos Web (Vanilla/Canvas/Phaser/Others)](https://joguinhosweb.netlify.app);
@@ -50,7 +50,7 @@ These websites are where I create some prototypes or lear some technology, learn
 ---
 ## Others (Not Programing (Directly))
 
-- [Adobe Portfolio](https://flaviosilva00.myportfolio.com);
+- [Adobe Portfolio](https://201flaviosilva.myportfolio.com/);
 
 #### Discontinued/Archived:
 - [MeiaGaspea Site (Google Site)](https://sites.google.com/view/meiagaspea);
