@@ -112,4 +112,6 @@ export const design = ["Gimp", "Krita", "Piskel/Pixil Art", "Blender"];
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=201flaviosilva&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=201flaviosilva)
+	
+![Snake animation](https://github.com/201flaviosilva/201flaviosilva/blob/output/github-contribution-grid-snake.svg)
 </details> 
