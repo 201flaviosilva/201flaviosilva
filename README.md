@@ -89,12 +89,12 @@ Games just to test some concepts and for prototypes
 ```js
 
 export const programming = {
-	languages: ["HTML", "CSS/SASS", "JavaScript", "JSON", "C#"],
-	frameworksAndLibraries: ["React.js", "Pixi.js", "Phaser", "Three.js",  "GDevelop", "Unity",],
-	tools: ["Git", "GitHub/GitLab/Bitbucket", "VS Code"],
+	languages: ["HTML", "CSS/SASS", "JavaScript", "Python/GDScript"],
+	frameworksAndLibraries: ["React.js", "Phaser"],
+	tools: ["Git", "GitHub/GitLab/Bitbucket", "VS Code", "Godot"],
 };
 
-export const design = ["Gimp", "Krita", "Piskel/Pixil Art", "Blender"];
+export const design = ["Open Toonz", "Piskel/Pixil Art", "Blender"];
 
 ```
 </details> 
