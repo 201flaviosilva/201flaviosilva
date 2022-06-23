@@ -3,8 +3,8 @@
 ```js
 
 const me = {
-  pt: "Sou um programador de front-end e desenvolvedor de jogos 👾, e tento fazer animações e pixel 🥲",
-  en: "I'm a front-end developer and games developer 👾, and try to make animations and pixel art 🥲",
+  pt: "Sou um programador de front-end e desenvolvedor de jogos 👾, e tento ser util em geral 🥲",
+  en: "I'm a front-end developer and games developer 👾, and I try to be helpful in general 🥲",
 };
 
 export default me;
@@ -18,68 +18,18 @@ export default me;
 
 ## 🚧  Projects
 
-### Main Projects
-
- - [201flaviosilva (My CV)](https://201flaviosilva.github.io);
-   - [V1 (Native HTML, SCSS and JavaScript)](https://201flaviosilva.bitbucket.io/src/201flaviosilva/V1/index.html);
-   - [V2 (Phaser game)](https://201flaviosilva.bitbucket.io/src/201flaviosilva/V2/index.html);
- - [Mangito](https://mangito.github.io/);
+### General Programing
+ - [201flaviosilva](https://201flaviosilva.github.io);
  - [Impacto](https://201flaviosilva.github.io/Impacto/);
- - [Rupestre (A simple draw app)](https://201flaviosilva.github.io/Rupestre);
- - [Algorithms](https://201flaviosilva.github.io/Algorithms/);
- - [Minerva (CLI Node App)](https://github.com/201flaviosilva/Minerva);
+ - [Rupestre](https://201flaviosilva.github.io/Rupestre);
 
-### Prototypes
-These websites are where I create some prototypes or lear some technology, learn and test ideas for possible future games. <br />
-
-- [Sites Porreiros (Learning HTML, CSS/SASS, JavaScript, Awesome FrameWorks)](https://201flaviosilva.github.io/SitesPorreiros);
-- [React School (Learning React)](https://react-schoole.netlify.app);
-- [Joguinhos Web (Vanilla/Canvas/Phaser/Others)](https://joguinhosweb.netlify.app);
-- [Tec Labs (A site with lots of technologies)](https://201flaviosilva.bitbucket.io/src/Labs/index.html);
-### Others (Not Programing (Directly))
-
-- [MeiaGaspea](https://meiagaspea.blogspot.com/);
-- [Adobe Portfolio](https://201flaviosilva.myportfolio.com/);
-
-#### Discontinued/Archived:
-- [MeiaGaspea Site (Google Site)](https://sites.google.com/view/meiagaspea);
-- [PlanetaGames (Wix)](https://planetaweb29.wixsite.com/planetagames);
-- [Planeta Hamsterland (Wix)](https://planetaweb29.wixsite.com/planetahamsterland);
+### Games
+ - [Fire Cosmos 🚀](https://mangito.github.io/FireCosmos/);
+ - [Super Box Jump 👾](https://201flaviosilva.gitlab.io/Super-Box-Jump/);
 
 </details> 
 
-<details> 
-    <summary>👾 Mangito</summary>
-
-## 👾 Mangito
-I like to play video games, but for that I have to program them. <br />
-Mangito is a GitHub organization where I publish and organize the games I have been making. :)
-
-Check the website [mangito.github.io](https://mangito.github.io/)
-
-### Games 🎮
-- [Fire Cosmos 🚀](https://mangito.github.io/FireCosmos/);
-- [Rei Das Cartas 🃏](https://mangito.github.io/ReiDasCartas/);
-
-#### POC (Proof Of Concept) 🧪
-Games just to test some concepts and for prototypes
-
-- [HomoGame](https://mangito.gitlab.io/HomoGame/HomoGame/);
-- [Tic Tac Toe](https://mangito.github.io/TicTacToe/);
-- [Tamagotchi](https://mangito.gitlab.io/Tamagotchi/);
-- [Inesperado](https://mangito.gitlab.io/Inesperado/);
-- [Salganhada](https://mangito.github.io/Salganhada/);
-
-
-### Social Networks 🌐
-
-- [GitHub](https://github.com/Mangito);
-- [GitLab](https://gitlab.com/mangito);
-- [Itch.io](https://mangito.itch.io/);
-
-</details> 
-
-
+<!-- --------- -->
 
 <details> 
     <summary>💪 Skills</summary>
@@ -99,6 +49,7 @@ export const design = ["Open Toonz", "Piskel/Pixil Art", "Blender"];
 ```
 </details> 
 
+<!-- ------------ -->
 
 <details> 
     <summary>📊 Stats</summary>
