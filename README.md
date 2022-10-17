@@ -58,6 +58,8 @@ export const design = ["Open Toonz", "Piskel/Pixil Art", "Blender"];
 
 [Check My Social Networks](https://resite.link/MeiaGaspea)
 
+![Visitor Count](https://profile-counter.glitch.me/201flaviosilva/count.svg)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=201flaviosilva&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=201flaviosilva&exclude_repo=github-readme-stats,anuraghazra.github.io)
