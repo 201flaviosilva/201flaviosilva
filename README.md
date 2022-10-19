@@ -60,11 +60,17 @@ export const design = ["Open Toonz", "Piskel/Pixil Art", "Blender"];
 
 ![Visitor Count](https://profile-counter.glitch.me/201flaviosilva/count.svg)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=201flaviosilva&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=201flaviosilva&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=201flaviosilva&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=201flaviosilva)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=201flaviosilva)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=201flaviosilva&theme=light&hide_border=false)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=201flaviosilva)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=201flaviosilva)
+
 	
-![Snake animation](https://github.com/201flaviosilva/201flaviosilva/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/201flaviosilva/201flaviosilva/blob/output/github-contribution-grid-snake.svg)
+
 </details> 
