@@ -20,12 +20,13 @@ export default me;
 
 ### General Programing
  - [201flaviosilva](https://201flaviosilva.github.io);
- - [Impacto](https://201flaviosilva.github.io/Impacto/);
+ - [Casino Arbor](https://201flaviosilva.github.io/casino-arbor/);
  - [Rupestre](https://201flaviosilva.github.io/Rupestre);
 
 ### Games
  - [Fire Cosmos 🚀](https://mangito.github.io/FireCosmos/);
  - [Super Box Jump 👾](https://201flaviosilva.gitlab.io/Super-Box-Jump/);
+ - [Snake 3D 🐍](https://201flaviosilva-labs.github.io/Snake-3D-Godot/);
 
 </details> 
 
@@ -39,12 +40,12 @@ export default me;
 ```js
 
 export const programming = {
-	languages: ["HTML", "CSS/SASS", "JavaScript", "Python/GDScript"],
-	frameworksAndLibraries: ["React.js", "Phaser"],
+	languages: ["HTML", "CSS/SASS", "JavaScript/TS", "Python/GDScript"],
+	frameworksAndLibraries: ["React", "Svelte", "Phaser"],
 	tools: ["Git", "GitHub/GitLab/Bitbucket", "VS Code", "Godot"],
 };
 
-export const design = ["Open Toonz", "Piskel/Pixil Art", "Blender"];
+export const design = ["Open Toonz", "Piskel/Pixil Art"];
 
 ```
 </details> 
