@@ -19,12 +19,14 @@ export default me;
 ## 🚧  Projects
 
 ### General Programing
+
  - [201flaviosilva](https://201flaviosilva.github.io);
  - [Casino Arbor](https://201flaviosilva.github.io/casino-arbor/);
  - [Rupestre](https://201flaviosilva.github.io/Rupestre);
 
 ### Games
- - [Fire Cosmos 🚀](https://mangito.github.io/FireCosmos/);
+
+ - [Fire Cosmos 🚀](https://201flaviosilva.gitlab.io/fire-cosmos/);
  - [Super Box Jump 👾](https://201flaviosilva.gitlab.io/Super-Box-Jump/);
  - [Snake 3D 🐍](https://201flaviosilva-labs.github.io/Snake-3D-Godot/);
 
@@ -38,7 +40,6 @@ export default me;
 ## 💪 Skills
 
 ```js
-
 export const programming = {
 	languages: ["HTML", "CSS/SASS", "JavaScript/TS", "Python/GDScript"],
 	frameworksAndLibraries: ["React", "Svelte", "Phaser"],
