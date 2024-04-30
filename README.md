@@ -18,17 +18,19 @@ export default me;
 
 ## 🚧  Projects
 
-### General Programing
+### Web
 
  - [201flaviosilva](https://201flaviosilva.github.io);
+ - [To Do List](https://201flaviosilva.github.io/To-Do-List/);
+ - [Expense Trackers](https://github.com/201flaviosilva/Expense-Trackers);
  - [Casino Arbor](https://201flaviosilva.github.io/casino-arbor/);
  - [Rupestre](https://201flaviosilva.github.io/Rupestre);
 
 ### Games
 
+ - [Snake 3D 🐍](https://201flaviosilva-labs.github.io/Snake-3D-Godot/);
  - [Fire Cosmos 🚀](https://201flaviosilva.gitlab.io/fire-cosmos/);
  - [Super Box Jump 👾](https://201flaviosilva.gitlab.io/Super-Box-Jump/);
- - [Snake 3D 🐍](https://201flaviosilva-labs.github.io/Snake-3D-Godot/);
 
 </details> 
 
@@ -42,7 +44,7 @@ export default me;
 ```js
 export const programming = {
 	languages: ["HTML", "CSS/SASS", "JavaScript/TS", "Python/GDScript"],
-	frameworksAndLibraries: ["React", "Svelte", "Phaser"],
+	frameworksAndLibraries: ["React", "Svelte", "Phaser", "Jest/RTL/Vitest"],
 	tools: ["Git", "GitHub/GitLab/Bitbucket", "VS Code", "Godot"],
 };
 
