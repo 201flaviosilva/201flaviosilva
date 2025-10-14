@@ -1,57 +1,22 @@
 ### Hi There 👋
 
 ```js
-
 const me = {
-  pt: "Sou um programador de front-end e desenvolvedor de jogos 👾, e tento ser util em geral 🥲",
-  en: "I'm a front-end developer and games developer 👾, and I try to be helpful in general 🥲",
+  pt: "Gosto desenvolver o Front End para sites e criar jogos 🎮 Sempre a aprender 🧠.",
+  en: "I like to develop Front End for web sites and creating games 🎮. Always learning 🧠.",
 };
 
 export default me;
-
 ```
 
----
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/201flaviosilva)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/201flaviosilva)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-silva-2b069b146/)
 
-<details> 
-    <summary>🚧 Projects</summary>
-
-## 🚧  Projects
-
-### Web
-
- - [201flaviosilva](https://201flaviosilva.github.io);
- - [To Do List](https://201flaviosilva.github.io/To-Do-List/);
- - [Expense Trackers](https://github.com/201flaviosilva/Expense-Trackers);
- - [Casino Arbor](https://201flaviosilva.github.io/casino-arbor/);
- - [Rupestre](https://201flaviosilva.github.io/Rupestre);
-
-### Games
-
- - [Snake 3D 🐍](https://201flaviosilva-labs.github.io/Snake-3D-Godot/);
- - [Fire Cosmos 🚀](https://201flaviosilva.gitlab.io/fire-cosmos/);
- - [Super Box Jump 👾](https://201flaviosilva.gitlab.io/Super-Box-Jump/);
-
-</details> 
-
-<!-- --------- -->
-
-<details> 
-    <summary>💪 Skills</summary>
-
-## 💪 Skills
-
-```js
-export const programming = {
-	languages: ["HTML", "CSS/SASS", "JavaScript/TS", "Python/GDScript"],
-	frameworksAndLibraries: ["React", "Svelte", "Phaser", "Jest/RTL/Vitest"],
-	tools: ["Git", "GitHub/GitLab/Bitbucket", "VS Code", "Godot"],
-};
-
-export const design = ["Open Toonz", "Piskel/Pixil Art"];
-
-```
-</details> 
+[![🌐 Live Site](https://img.shields.io/badge/201flaviosilva.github.io-1E90FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://201flaviosilva.github.io)
+[![🎮 Play a Game](https://img.shields.io/badge/🎮Interactive%20CV-32CD32?style=for-the-badge&logo=phaser&logoColor=white)](https://201flaviosilva.github.io/_/game)
+[![⬇️ Baixar CV (PT)](https://img.shields.io/badge/⬇️Baixar%20CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
+[![⬇️ Download CV (EN)](https://img.shields.io/badge/⬇️Download%20CV-darkred?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
 
 <!-- ------------ -->
 
@@ -59,10 +24,6 @@ export const design = ["Open Toonz", "Piskel/Pixil Art"];
     <summary>📊 Stats</summary>
 
 ## 📊 Stats
-
-[Check My Social Networks](https://resite.link/MeiaGaspea)
-
-![Visitor Count](https://profile-counter.glitch.me/201flaviosilva/count.svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=201flaviosilva&show_icons=true&theme=dark)
 
@@ -72,9 +33,6 @@ export const design = ["Open Toonz", "Piskel/Pixil Art"];
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=201flaviosilva)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=201flaviosilva)
-
-	
 ![Snake Animation](https://github.com/201flaviosilva/201flaviosilva/blob/output/github-contribution-grid-snake.svg)
 
 </details> 
