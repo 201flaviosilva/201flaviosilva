@@ -14,7 +14,7 @@ export default me;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-silva-2b069b146/)
 
 [![🌐 Live Site](https://img.shields.io/badge/201flaviosilva.github.io-1E90FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://201flaviosilva.github.io)
-[![🎮 Play a Game](https://img.shields.io/badge/🎮Interactive%20CV-32CD32?style=for-the-badge&logo=phaser&logoColor=white)](https://201flaviosilva.github.io/_/game)
+[![🎮 Play a Game](https://img.shields.io/badge/🎮Interactive%20CV-32CD32?style=for-the-badge&logo=phaser&logoColor=white)](https://201flaviosilva.github.io/s/game)
 [![⬇️ Baixar CV (PT)](https://img.shields.io/badge/⬇️Baixar%20CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
 [![⬇️ Download CV (EN)](https://img.shields.io/badge/⬇️Download%20CV-darkred?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
 
