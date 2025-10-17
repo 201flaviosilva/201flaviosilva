@@ -15,8 +15,8 @@ export default me;
 
 [![🌐 Live Site](https://img.shields.io/badge/201flaviosilva.github.io-1E90FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://201flaviosilva.github.io)
 [![🎮 Play a Game](https://img.shields.io/badge/🎮Interactive%20CV-32CD32?style=for-the-badge&logo=phaser&logoColor=white)](https://201flaviosilva.github.io/s/game)
-[![⬇️ Baixar CV (PT)](https://img.shields.io/badge/⬇️Baixar%20CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
-[![⬇️ Download CV (EN)](https://img.shields.io/badge/⬇️Download%20CV-darkred?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
+[![⬇️ Baixar CV (PT)](https://img.shields.io/badge/⬇️Baixar%20CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/201flaviosilva/201flaviosilva.github.io/releases/download/V2.2/FlavioSilva-PT.pdf)
+[![⬇️ Download CV (EN)](https://img.shields.io/badge/⬇️Download%20CV-darkred?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/201flaviosilva/201flaviosilva.github.io/releases/download/V2.2/FlavioSilva-EN.pdf)
 
 <!-- ------------ -->
 
